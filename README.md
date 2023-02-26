@@ -1,7 +1,5 @@
-# Code for submission to 36th Neurips, 2022.
---------------------------------------------------------------------------------------------------------------------
-## Paper ID: 8784
-## AI-SARAH: Adaptive and Implicit Stochastic Recursive Gradient Methods.
+# AI-SARAH: Adaptive and Implicit Stochastic Recursive Gradient Methods.
+paper: TMLR link
 --------------------------------------------------------------------------------------------------------------------
 ## content:
 ### python code of implementing algorithms, conducting experiments, and generating figures in the main paper.
