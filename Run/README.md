@@ -9,7 +9,7 @@
 ## 7. AI_SARAH_sensitivity_gamma.ipynb -- sensitivity analysis on gamma with Algorithm 2
 --------------------------------------------------------------------------------------------------------------------
 ## Dependency:
-### a. Prior to running algorithms, datasets is required to be download into the default data folder: /Data; user can specify a #####  different folder
+### a. Prior to running algorithms, datasets is required to be download into the default data folder: /Data; user can specify a different folder
 ### b. Please read Appendix for best hyper-parameters for each algorithm/dataset/case
 ### c. default GPU environment, but all codes are runable on CPU
 --------------------------------------------------------------------------------------------------------------------
